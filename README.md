@@ -1,5 +1,7 @@
 # British Airways Customer Reviews Analysis
 
+You can find the Tableau visualizations for this analysis [here](https://public.tableau.com/app/profile/andor.varsanyi5689/viz/BritishAirwaysReviews_17290336573510/Dashboard1).
+
 ## Introduction
 
 This repository contains a Jupyter notebook that performs an in-depth analysis of British Airways customer reviews. The project aims to uncover insights into customer satisfaction, preferences, and trends across various aspects of the airline's service.
